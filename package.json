@@ -1,6 +1,6 @@
 {
   "name": "@logmedaily/event",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
@@ -20,8 +20,9 @@
     "rebuild": "npm run clean && npm run build"
   },
   "keywords": [
-    "@logmedaily/logger",
-    "ecc"
+    "@logmedaily/event",
+    "event",
+    "event management"
   ],
   "author": "logmedaily",
   "license": "MIT",
